@@ -1,0 +1,23 @@
+{
+  "name": "modern-js-module",
+  "version": "0.0.0",
+  "description": "a todo tutorial for learning about node and modern modular js",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjones222/modern-js-module.git"
+  },
+  "author": "Rick Jones <rick.w.jones@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjones222/modern-js-module/issues"
+  },
+  "homepage": "https://github.com/rjones222/modern-js-module#readme",
+  "private": true,
+  "dependencies": {
+    "uuid": "^2.0.2"
+  }
+}

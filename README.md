@@ -88,7 +88,7 @@ The syntax to use that hints to npm that it wants something to be installed over
 
 ```js
 "dependencies": {
-  "my-module": "ssh+git://git@github.com/my-user-or-org/my-module"
+  "my-module": "git+ssh://git@github.com/my-user-or-org/my-module"
 }
 ```
 

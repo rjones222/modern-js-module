@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjones222/modern-js-module.git"
+    "url": "git+ssh://github.com/rjones222/modern-js-module.git"
   },
   "author": "Rick Jones <rick.w.jones@gmail.com>",
   "license": "UNLICENSED",

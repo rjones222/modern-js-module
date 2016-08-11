@@ -1,0 +1,16 @@
+{
+  "name": "todo-api",
+  "version": "0.0.1",
+  "description": "An example node module for todo CRUD.",
+  "main": "todo.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan McDiarmid <dylan@roostery.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "uuid": "^2.0.2",
+    "modern-js-module": "git+ssh://git@github.com/rjones222/modern-js-module/"
+  }
+}
